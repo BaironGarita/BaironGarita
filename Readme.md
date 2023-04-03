@@ -3,8 +3,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ingbairongarita@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bairon-garita-ballestero-a25206271/)
 ---
-<img align="right" alt="GIF" height="220px" src="https://user-images.githubusercontent.com/129570629/229588772-4e43ab54-df1f-4f32-9f7a-e4fa8a51c467.png"/>
-
+<img align="right" alt="GIF" height="220px" src="https://user-images.githubusercontent.com/129570629/229591943-6bc7d78c-7681-4271-a5f8-e312712f5810.png"/>
 
 
 - 🌎 I'm from Alajuela - Costa Rica 🇨🇷
