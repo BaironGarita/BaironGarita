@@ -1,3 +1,3 @@
-### Hi there 👋
+### Hi there 
+![Definitive Black](https://user-images.githubusercontent.com/129570629/229404774-02c88ef5-666e-4f7b-b957-e48cfd6d14bb.png)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ingbairongarita@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
