@@ -2,6 +2,7 @@
 ---
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ingbairongarita@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bairon-garita-ballestero-a25206271/)
+<a href="https://dev.to/bairongarita" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to" height="30px"></a>
 ---
 <img align="right" alt="GIF" height="220px" src="https://user-images.githubusercontent.com/129570629/229591943-6bc7d78c-7681-4271-a5f8-e312712f5810.png"/>
 
