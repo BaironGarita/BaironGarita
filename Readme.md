@@ -12,7 +12,8 @@
 - 🗣️ Speak: Spanish: Native, English:B1-B2
 
 - 🎯 Hobbies: Play guitar 🎸, Gym 🏋🏻‍♂️, Reading 📖, Travel ✈️
-- 👨🏻‍💻 Hard Skill: Knowledge about linux, knowledges about terminal (bash, zsh), Frontend, Backend ...
+- 👨🏻‍💻 Hard Skill's: Knowledge about linux, knowledges about terminal (bash, zsh), Frontend, Backend ...
+- 🧠 Soft Skill's: I am a patient person, a responsible collaborator and have good communication skills ...
 
 ---
 
