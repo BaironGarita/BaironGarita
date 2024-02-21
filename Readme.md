@@ -27,6 +27,8 @@ else:
   print = "Why aren't you ready?"
 ```
 ---
+<a href="https://app.daily.dev/bairongaritaballestero"><img src="https://api.daily.dev/devcards/v2/D0OlUrTdCXSgLuCu8Kql9.png?type=default&r=f4o" width="356" alt="Bairon Garita Ballestero's Dev Card"/></a>
+---
 
 ## Languages and Tools 🧰
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
